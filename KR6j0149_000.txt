@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛頂尊勝陀羅尼念誦儀軌法
+#+DATE: 2015-08-30 20:26:51.838269
+#+PROPERTY: JUAN 0
